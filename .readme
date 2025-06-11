@@ -1,0 +1,37 @@
+# Employees Dashboard
+
+A full-stack web application for managing employee data efficiently. This dashboard allows administrators to view, add, edit, and delete employee records, providing a user-friendly interface and robust backend functionality.
+
+## Features
+
+- View a list of all employees
+- Add new employee records
+- Edit existing employee details
+- Delete employee records
+- Search and filter employees
+- Responsive design for desktop and mobile
+
+## Tech Stack
+
+- **Frontend:** (e.g., React, Vue, Angular)
+- **Backend:** (e.g., Node.js, Express, Django)
+- **Database:** (e.g., MongoDB, PostgreSQL, MySQL)
+- **Authentication:** (e.g., JWT, OAuth)
+
+## Getting Started
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/rafaelfullstackdeveloper/Employees-Dashboard.git
+    ```
+2. Install dependencies for both frontend and backend.
+3. Configure environment variables as needed.
+4. Run the development servers.
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements.
+
+## License
+
+This project is licensed under the GNU License.
